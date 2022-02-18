@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0b9c4e4.chunk.css",
+    "main.js": "/static/js/main.11920464.chunk.js",
+    "main.js.map": "/static/js/main.11920464.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d79ba6c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d79ba6c6.js.map",
+    "static/js/2.1cb4f3d4.chunk.js": "/static/js/2.1cb4f3d4.chunk.js",
+    "static/js/2.1cb4f3d4.chunk.js.map": "/static/js/2.1cb4f3d4.chunk.js.map",
+    "static/js/3.036be077.chunk.js": "/static/js/3.036be077.chunk.js",
+    "static/js/3.036be077.chunk.js.map": "/static/js/3.036be077.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b0b9c4e4.chunk.css.map": "/static/css/main.b0b9c4e4.chunk.css.map",
+    "static/js/2.1cb4f3d4.chunk.js.LICENSE.txt": "/static/js/2.1cb4f3d4.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.ceb6169a.svg": "/static/media/arrow-down.ceb6169a.svg",
+    "static/media/arrow-right.39e3cfc4.svg": "/static/media/arrow-right.39e3cfc4.svg",
+    "static/media/box-arrow-up-right.e3541f50.svg": "/static/media/box-arrow-up-right.e3541f50.svg",
+    "static/media/box.9d0aa711.png": "/static/media/box.9d0aa711.png",
+    "static/media/cash.348b5fd5.svg": "/static/media/cash.348b5fd5.svg",
+    "static/media/defense.320b1465.svg": "/static/media/defense.320b1465.svg",
+    "static/media/egg.aa0391a3.svg": "/static/media/egg.aa0391a3.svg",
+    "static/media/egg2.102c0a00.svg": "/static/media/egg2.102c0a00.svg",
+    "static/media/egg_rose.bd9524cb.png": "/static/media/egg_rose.bd9524cb.png",
+    "static/media/farm.1051bf3a.png": "/static/media/farm.1051bf3a.png",
+    "static/media/fire.0a6ac89a.svg": "/static/media/fire.0a6ac89a.svg",
+    "static/media/food1.72cc5ea4.png": "/static/media/food1.72cc5ea4.png",
+    "static/media/icon1.ad5d3c10.svg": "/static/media/icon1.ad5d3c10.svg",
+    "static/media/icon2.a022b1cd.svg": "/static/media/icon2.a022b1cd.svg",
+    "static/media/icon3.3be038be.svg": "/static/media/icon3.3be038be.svg",
+    "static/media/illu_soy2-20 1.8212f205.png": "/static/media/illu_soy2-20 1.8212f205.png",
+    "static/media/stamina.f9058101.svg": "/static/media/stamina.f9058101.svg",
+    "static/media/star.4a1f9b78.svg": "/static/media/star.4a1f9b78.svg",
+    "static/media/thumb-down.c1ad30f5.svg": "/static/media/thumb-down.c1ad30f5.svg",
+    "static/media/thumb-up.b8d37dcf.svg": "/static/media/thumb-up.b8d37dcf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d79ba6c6.js",
+    "static/js/2.1cb4f3d4.chunk.js",
+    "static/css/main.b0b9c4e4.chunk.css",
+    "static/js/main.11920464.chunk.js"
+  ]
+}
